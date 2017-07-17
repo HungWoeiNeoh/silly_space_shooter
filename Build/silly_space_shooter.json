@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "silly_space_shooter.data.unityweb",
+"asmCodeUrl": "silly_space_shooter.asm.code.unityweb",
+"asmMemoryUrl": "silly_space_shooter.asm.memory.unityweb",
+"asmFrameworkUrl": "silly_space_shooter.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
